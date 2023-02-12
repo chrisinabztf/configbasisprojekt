@@ -1,1 +1,2 @@
-# configbasisprojekt
+# Config - Basisprojekt
+
